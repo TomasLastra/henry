@@ -1,0 +1,18 @@
+Diego@user MINGW64 ~/Henry/henry (master)
+$ git push
+error: src refspec refs/heads/master does not match any
+error: failed to push some refs to 'https://github.com/TomasLastra/henry.git'
+
+Diego@user MINGW64 ~/Henry/henry (master)
+$ ls
+ archivo-ejemplo.js  'Problemas con el comando git push.txt'
+
+Diego@user MINGW64 ~/Henry/henry (master)
+$ git push
+error: src refspec refs/heads/master does not match any
+error: failed to push some refs to 'https://github.com/TomasLastra/henry.git'
+
+Diego@user MINGW64 ~/Henry/henry (master)
+$ git push
+error: src refspec refs/heads/master does not match any
+error: failed to push some refs to 'https://github.com/TomasLastra/henry.git'
